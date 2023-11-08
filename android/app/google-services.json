@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962961405931",
+    "project_id": "zorrokid-collman",
+    "storage_bucket": "zorrokid-collman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962961405931:android:c01201ccc7a3d52e93cbae",
+        "android_client_info": {
+          "package_name": "com.zorrokid.collman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApIc7yED_xDi9BHVsqtrNH4d8l-zA8EF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
