@@ -7,3 +7,5 @@ A new Flutter project. Was created with following command to get minimal project
 Added firebase:
 
     flutterfire configure
+
+    - added firebase_auth
