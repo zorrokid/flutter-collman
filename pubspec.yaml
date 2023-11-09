@@ -15,7 +15,8 @@ dependencies:
   auth_lib: 
     git: 
       url: https://github.com/zorrokid/flutter-auth-lib.git
-      ref: 6fa592829f3bfc1be03dc3e2a246b90678d54c25
+      ref: d35dd0bb6d3b627f46164bd573a4edc177dab891
+  get: ^4.6.6
 
 dev_dependencies:
   flutter_test:

@@ -21,8 +21,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "6fa592829f3bfc1be03dc3e2a246b90678d54c25"
-      resolved-ref: "6fa592829f3bfc1be03dc3e2a246b90678d54c25"
+      ref: d35dd0bb6d3b627f46164bd573a4edc177dab891
+      resolved-ref: d35dd0bb6d3b627f46164bd573a4edc177dab891
       url: "https://github.com/zorrokid/flutter-auth-lib.git"
     source: git
     version: "0.0.1"
@@ -138,7 +138,7 @@ packages:
     source: sdk
     version: "0.0.0"
   get:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: get
       sha256: e4e7335ede17452b391ed3b2ede016545706c01a02292a6c97619705e7d2a85e
